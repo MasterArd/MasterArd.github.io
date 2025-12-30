@@ -1,6 +1,4 @@
-# MasterArd.github.io
-Test for an website 
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <html lang="en">
 <head>
